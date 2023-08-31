@@ -28,5 +28,6 @@
 
 # Executables
 *.exe
+*.com
 *.out
 *.app
